@@ -1,0 +1,31 @@
+_repo: The-Medicine-Men-of-the-Apache.--1892-N-09---1887-1888--pages-443-604--_42616
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bourke, John Gregory
+    alias: Bourke, John G. (John Gregory)
+    birthdate: 1846
+    deathdate: 1896
+    gutenberg_agent_id: '41777'
+    url: http://www.gutenberg.org/2009/agents/41777
+description: ''
+gutenberg_issued: '2013-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42616'
+  lccn: '16005508'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Apache Indians -- Rites and ceremonies'
+- !lcc 'E011'
+- !lcsh 'Shamans -- New Mexico'
+- !lcsh 'Apache Indians -- Religion'
+- !lcsh 'Apache Indians -- Medicine'
+title: The Medicine-Men of the Apache. (1892 N 09 / 1887-1888 (pages 443-604))
+url: http://www.gutenberg.org/ebooks/42616
