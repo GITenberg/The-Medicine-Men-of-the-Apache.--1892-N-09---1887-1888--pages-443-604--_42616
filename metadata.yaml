@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41777'
     url: http://www.gutenberg.org/2009/agents/41777
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42616#The-Medicine-Men-of-the-Apache.--1892-N-09---1887-1888--pages-443-604--
 gutenberg_issued: '2013-04-29'
 gutenberg_type: Text
 identifiers:
